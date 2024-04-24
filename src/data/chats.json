@@ -1,0 +1,24 @@
+[
+  {
+    "chatId": "chat1",
+    "userDetails": {
+      "displayName": "John",
+      "imagePath": "/john.jpg"
+    },
+    "messages": [
+      "Hey how are you?",
+      "It's been a while since we talked"
+    ]
+  },
+  {
+    "chatId": "chat2",
+    "userDetails": {
+      "displayName": "Jane",
+        "imagePath": "/jane.jpg"
+    },
+    "messages": [
+      "Hey, how's it going?",
+      "Hope you are doing well, :)"
+    ]
+  }
+]
